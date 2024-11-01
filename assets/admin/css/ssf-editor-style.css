@@ -1,0 +1,3 @@
+.edit-post-visual-editor__content-area > div, .editor-styles-wrapper.block-editor-writing-flow, .block-editor-block-list__layout.is-root-container,.wp-block.editor-post-title.editor-post-title__block, .editor-styles-wrapper, .editor-styles-wrapper>* {
+    background: var(--ssf-editor-bg-color) !important;
+}

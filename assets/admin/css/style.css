@@ -1,0 +1,113 @@
+/***********************************/
+
+/* SSF - Particle Hook CPT Meta Settings Admin CSS */
+
+/**********************************/
+
+.components-panel__row > div {
+  width: 100%;
+}
+
+/***********************************/
+
+/* SSF - WordPress Dashboard */
+
+/**********************************/
+.ssf-about {
+    display: inline-flex;
+    margin-top: 40px;
+}
+.ssf-about-icon:before {
+    font-family: "dashicons";
+    content: "\f348";
+}
+.ssf-support-icon:before {
+    font-family: "dashicons";
+    content: "\f328";
+}
+.ssf-donate-icon:before {
+    font-family: "dashicons";
+    content: "\f487";
+}
+.ssf-about-icon, .ssf-support-icon, .ssf-donate-icon {
+    margin: 20px 20px 0px 20px;
+    font-size: 28px;
+}
+.ssf-about-info {
+    margin-right: 30px;
+}
+
+/* Range Slider */
+
+.ssf_range__slider {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0.4em 0;
+  background-color: transparent;
+}
+.ssf_range__slider:focus {
+  outline: none;
+}
+.ssf_range__slider::-webkit-slider-runnable-track {
+  background-color: #135E96;
+  height: 0.3em;
+  margin: 0.4em 0;
+  border-radius: 2px;
+}
+.ssf_range__slider::-moz-range-track {
+  background-color: #135E96;
+  height: 0.3em;
+  border-radius: 2px;
+}
+.ssf_range__slider::-moz-focus-outer {
+  border: 0;
+}
+.ssf_range__slider::-ms-track {
+  background-color: #135E96;
+  height: 0.3em;
+  margin: 0.1em 0;
+  border-radius: 2px;
+}
+.ssf_range__slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  text-align: center;
+  width: 1.2em;
+  height: 1.2em;
+  border: 2px solid #cccccc;
+  border-radius: 50%;
+  cursor: pointer;
+  box-sizing: border-box;
+  margin-top: -0.5em;
+}
+.ssf_range__slider::-moz-range-thumb {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  text-align: center;
+  width: 1.2em;
+  height: 1.2em;
+  border: 2px solid #cccccc;
+  border-radius: 50%;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.ssf_range__slider::-ms-thumb {
+  margin: 0;
+}
+.ssf_range__amount {
+  width: 55px;
+  margin-left: 20px;
+}
+/* Display Rule Ids */
+.ssf-display-rule-ids {
+  width: 295px;
+}
+
+.ssf-hide {
+  display: none;
+}

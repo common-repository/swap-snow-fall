@@ -1,0 +1,373 @@
+# Copyright (C) 2021 Swapnil Dhanrale
+# This file is distributed under the same license as the Particle WordPress Backgrounds package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Particle WordPress Backgrounds 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/swap-snow-fall\n"
+"POT-Creation-Date: 2021-12-26 08:03:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: classes/admin/class-ssf-menu.php:75
+msgid "Clear"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:76
+msgid "Clear color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:77
+msgid "Default"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:78
+msgid "Select default color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:79
+msgid "Select Color"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:80
+msgid "Color value"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:103
+msgid ""
+"These settings Enable the Particle Effect on Full Page. Edit these settings "
+"to control Full Page particle effects."
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:111
+msgid "Enable Snow Effect:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:120
+msgid "Type:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:138
+msgid "Enable on Mobile:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:150
+msgid "Particle Color:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:158
+msgid "Particle Shape:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:166
+msgid "Number of Particles:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:174
+msgid "Display On:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:191
+msgid "Disable Snow Effect:"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:266
+msgid "Particles"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:267
+msgid "Plain Snow"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:318
+#: custom-hook/class-ssf-custom-hook-post-type.php:707
+msgid "Circle"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:319
+#: custom-hook/class-ssf-custom-hook-post-type.php:711
+msgid "Star"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:320
+#: custom-hook/class-ssf-custom-hook-post-type.php:715
+msgid "Triangle"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:321
+#: custom-hook/class-ssf-custom-hook-post-type.php:719
+msgid "Polygon"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:322
+#: custom-hook/class-ssf-custom-hook-post-type.php:723
+msgid "Edge"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:387
+msgid "Settings"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:388
+msgid "About"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:434
+msgid "What is the Particle Background Plugin?"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:435
+msgid ""
+"The Particle Background plugin is developed for the users to easily add "
+"Particle Background to their website and create attractive beautiful "
+"particle backgrounds."
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:439
+msgid "We stand by you!"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:440
+msgid ""
+"We assure complete help and support whenever you need us. Go ahead and add "
+"some cool effects to your website!"
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:441
+msgid "Need help? Post your query here."
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:445
+msgid "Particle WordPress Backgrounds needs your support."
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:446
+msgid ""
+"It is hard to continue development and support for this plugin without "
+"contributions from users like you. If you enjoy using Particle WordPress "
+"Backgrounds and find it useful, please consider "
+msgstr ""
+
+#: classes/admin/class-ssf-menu.php:446
+msgid "making a donation"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:325
+msgid "General"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:329
+msgid "Entire Site"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:333
+msgid "All Singular"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:337
+msgid "All Archives"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:345
+msgid "Special"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:349
+msgid "Front Page"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:353
+msgid "Blog Page"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:357
+msgid "Search Results"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:361
+msgid "Not Found (404)"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:365
+msgid "Author Archives"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:369
+msgid "Date Archives"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:392
+msgid "Single"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:401
+#. translators: %1$s: taxonomy singular label.
+msgid "%1$s Archives"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:409
+#. translators: %1$s: post type plural label
+msgid "%1$s Archive"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:421
+msgid "Specific Target"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:425
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:638
+msgid "Particle Hooks"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:639
+msgid "Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:642
+msgid "Add New Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:643
+msgid "New Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:644
+msgid "Edit Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:645
+msgid "View Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:646
+msgid "All Particle Hooks"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:647
+msgid "Search Particle Hooks"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:648
+msgid "Parent Particle Hook:"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:649
+msgid "No Particle Hooks found."
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:650
+msgid "No Particle Hooks found in Trash."
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:651
+msgid "Particle Hook archives"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:652
+msgid "Insert into Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:653
+msgid "Uploaded to this Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:654
+msgid "Filter Particle Hooks list"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:655
+msgid "Particle Hooks list navigation"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:656
+msgid "Particle Hooks list"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:661
+msgid "Particle Hook areas to include in your site."
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:703
+msgid "Type Of Shape"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:744
+msgid "Header"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:748
+msgid "wp_head"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:756
+msgid "Footer"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:760
+msgid "wp_footer"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:768
+msgid "Custom Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:772
+msgid "Insert Specific Hook"
+msgstr ""
+
+#: swap-snow-fall.php:33
+#. translators: %s: PHP version
+msgid "Swap Snow Fall requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Particle WordPress Backgrounds"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/swap-snow-fall/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Particle WordPress Backgrounds is fast, fully customizable WordPress plugin "
+"for adding particle JS to the background of  websites. It is very "
+"lightweight (less than 25KB on frontend) and offers unparalleled speed even "
+"with Particle JS."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Swapnil Dhanrale"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/swapnild"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:640
+msgctxt "Admin Menu text"
+msgid "Particle Hook"
+msgstr ""
+
+#: custom-hook/class-ssf-custom-hook-post-type.php:641
+msgctxt "Element"
+msgid "Add New"
+msgstr ""
